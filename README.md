@@ -39,15 +39,6 @@ This project builds and trains **neural network models** to classify handwritten
 
 ---
 
-## 🖼️ Model Visualization  
-You can plot the model architecture using:  
-```python
-from keras.utils import plot_model
-plot_model(model, to_file='model.png', show_shapes=True)
-```
-
----
-
 ## 🚀 How to Run  
 
 1. Clone the repository:  
